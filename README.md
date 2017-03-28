@@ -1,4 +1,4 @@
-# Basic RSpec on Basic Calculator Program
+# RSpec on Basic Ruby Programs
 
 Trying to learn RSpec testing. 
 
